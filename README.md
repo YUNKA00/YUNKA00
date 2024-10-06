@@ -16,7 +16,7 @@ Step-by-step instructions to get a development environment running.
 
 ### 5. **Usage**
 Provide examples of how to run or use the software:
-```markdown
+
 ## Usage
 How to use the project.
 
@@ -24,7 +24,7 @@ How to use the project.
    ```bash
    python main.py
    python endpoint_audit.py --network 192.168.1.0/24
-   
+
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
