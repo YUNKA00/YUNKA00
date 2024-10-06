@@ -34,7 +34,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](www.google.com) file for details.
 ## Contact
 If you have any questions, feel free to contact me at:
 - Email: your.email@example.com
